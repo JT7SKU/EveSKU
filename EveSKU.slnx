@@ -1,6 +1,10 @@
 <Solution>
-  <Folder Name="/EveSKUs/">
+  <Folder Name="/EveSKUs/" />
+  <Folder Name="/EveSKUs/Fittaus/">
     <Project Path="EveSKU.Fitting.Api/EveSKU.Fitting.Api.csproj" />
+  </Folder>
+  <Folder Name="/EveSKUs/Suunnitelmat/">
+    <Project Path="EveSKU.Suunnitelmat.Api/EveSKU.Suunnitelmat.Api.csproj" />
   </Folder>
   <Folder Name="/Hallinta/">
     <Project Path="EveSKU.Management/EveSKU.Management.Client/EveSKU.Management.Client.csproj" />

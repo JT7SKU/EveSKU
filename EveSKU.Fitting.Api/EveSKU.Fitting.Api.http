@@ -1,0 +1,6 @@
+@EveSKU.Fitting.Api_HostAddress = http://localhost:5218
+
+GET {{EveSKU.Fitting.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

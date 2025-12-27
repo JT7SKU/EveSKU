@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/EveSKUs/">
+    <Project Path="EveSKU.Fitting.Api/EveSKU.Fitting.Api.csproj" />
+  </Folder>
+  <Folder Name="/Hallinta/">
+    <Project Path="EveSKU.Management/EveSKU.Management.Client/EveSKU.Management.Client.csproj" />
+    <Project Path="EveSKU.Management/EveSKU.Management/EveSKU.Management.csproj" />
+  </Folder>
+</Solution>

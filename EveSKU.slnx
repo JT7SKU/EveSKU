@@ -3,6 +3,11 @@
   <Folder Name="/EveSKUs/Fittaus/">
     <Project Path="EveSKU.Fitting.Api/EveSKU.Fitting.Api.csproj" />
   </Folder>
+  <Folder Name="/EveSKUs/PI/">
+    <Project Path="EveSKU.PI.Api/EveSKU.PI.Api.csproj" Id="6ed26900-6429-4309-a262-9590c2dc45ca" />
+    <Project Path="EveSKU.PI.Kontrakti/EveSKU.PI.Kontrakti.csproj" Id="8fc7818d-b6dc-4d71-8cbe-9447dd14a46c" />
+    <Project Path="EveSKU.PI.Service/EveSKU.PI.Service.csproj" Id="055569fd-b29f-4351-8db6-0328a561a19b" />
+  </Folder>
   <Folder Name="/EveSKUs/Suunnitelmat/">
     <Project Path="EveSKU.Suunnitelmat.Api/EveSKU.Suunnitelmat.Api.csproj" />
   </Folder>

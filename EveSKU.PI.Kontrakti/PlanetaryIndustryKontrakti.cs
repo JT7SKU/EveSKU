@@ -1,4 +1,4 @@
-﻿namespace EveSKU.PI.Kontrakti
+﻿namespace EveSKU.PI.Kontraktit.PIKontrakti
 {
     public class PlanetaryIndustryKontrakti
     {

@@ -12,7 +12,10 @@
     <Project Path="EveSKU.Suunnitelmat.Api/EveSKU.Suunnitelmat.Api.csproj" />
   </Folder>
   <Folder Name="/Hallinta/">
-    <Project Path="EveSKU.Management/EveSKU.Management.Client/EveSKU.Management.Client.csproj" />
+    <Project Path="EveSKU.Management/EveSKU.Management.Client/EveSKU.Management.Asiakas.csproj" />
     <Project Path="EveSKU.Management/EveSKU.Management/EveSKU.Management.csproj" />
+  </Folder>
+  <Folder Name="/Jaettu/">
+    <Project Path="EveSKU.Infra/EveSKU.Infra.csproj" Id="f68d2671-58c9-4b94-85c6-79568d73d436" />
   </Folder>
 </Solution>

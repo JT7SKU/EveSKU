@@ -1,4 +1,4 @@
-﻿namespace EveSKU.PI.Service
+﻿namespace EveSKU.PI.Services.PIRyyni
 {
     public class PlanetaryIndistryRyyni
     {

@@ -2,6 +2,8 @@
   <Folder Name="/EveSKUs/" />
   <Folder Name="/EveSKUs/Fittaus/">
     <Project Path="EveSKU.Fitting.Api/EveSKU.Fitting.Api.csproj" />
+    <Project Path="EveSKU.Fitting.Kontrakti/EveSKU.Fitting.Kontrakti.csproj" Id="da6e867b-0ac9-4ca8-a3df-01978d65cd96" />
+    <Project Path="EveSKU.Fitting.Service/EveSKU.Fitting.Service.csproj" Id="8b09c797-ce85-4a63-838c-563764134c88" />
   </Folder>
   <Folder Name="/EveSKUs/PI/">
     <Project Path="EveSKU.PI.Api/EveSKU.PI.Api.csproj" Id="6ed26900-6429-4309-a262-9590c2dc45ca" />
@@ -10,6 +12,8 @@
   </Folder>
   <Folder Name="/EveSKUs/Suunnitelmat/">
     <Project Path="EveSKU.Suunnitelmat.Api/EveSKU.Suunnitelmat.Api.csproj" />
+    <Project Path="EveSKU.Suunnitelmat.Kontrakti/EveSKU.Suunnitelmat.Kontrakti.csproj" Id="fc551b7e-be15-4155-abb2-94571fbc9106" />
+    <Project Path="EveSKU.Suunnitelmat.Service/EveSKU.Suunnitelmat.Service.csproj" Id="1b21d6a3-fcdb-4789-bd0f-b7c7a3d90994" />
   </Folder>
   <Folder Name="/Hallinta/">
     <Project Path="EveSKU.Management/EveSKU.Management.Client/EveSKU.Management.Asiakas.csproj" />

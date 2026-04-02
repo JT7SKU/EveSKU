@@ -1,6 +1,6 @@
 ﻿namespace EveSKU.Suunnitelmat.Kontraktit.SuunnitelmaKontrakti
 {
-    public class Class1
+    public class SuunnitelmaKontrakti
     {
 
     }
